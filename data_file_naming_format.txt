@@ -1,0 +1,7 @@
+
+data file name: 1398478870147_zhangmifigo@gmail_com_1398477766_351746051964131_dbr
+
+1. 1398478870147: is the timestamp when the data is transferred to the backend server
+2. zhangmifigo@gmail_com: is the user ID
+3. 1398477766: is the timestamp when the data is saved in the mobile phone
+4. 351746051964131: is the smartphone's IMEI number
